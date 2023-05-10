@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Hotel_lab4_.Firms">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAQAAAAAAAAAAAAAIAAAAAAAAEAAABAQIAEAAAAEA=</HashCode>
+      <FileName>Firms.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="tariff" />
+      <Property Name="Person" />
+      <Property Name="Person1" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Hotel_lab4_.Person">
+    <Position X="3" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAAhAQBAIAAABAAAQAAAAAAAAAAAAAAAQAEA=</HashCode>
+      <FileName>Person.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="TariffType" />
+      <Property Name="tariff" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Hotel_lab4_.tariff">
+    <Position X="3" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAAQAAAAEAAABAAABAQAAAAAAABAAAAAAA=</HashCode>
+      <FileName>tariff.cs</FileName>
+      <NewMemberFileName>Tariff.cs</NewMemberFileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="Hotel_lab4_.TariffType">
+    <Position X="6" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAQAAAAAAAAIAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>tariff.cs</FileName>
+      <NewMemberFileName>Tariff.cs</NewMemberFileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
